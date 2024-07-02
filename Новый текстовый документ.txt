@@ -1,2 +1,4 @@
 Hello world
 
+Новый текстовый документ.txt
+Test 1
